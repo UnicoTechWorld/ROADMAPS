@@ -1,5 +1,7 @@
 # Module — Introduction to Microsoft Entra ID
-![alt text](image.png)
+
+<img width="961" height="460" alt="image" src="https://github.com/user-attachments/assets/51ceef38-5105-4714-9810-804823783805" />
+
 ## 🎯 What I learned
 - What Microsoft Entra ID is and where it fits in the Microsoft Cloud.
 - Difference between identities, accounts, and directory objects.
