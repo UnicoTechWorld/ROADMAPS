@@ -35,4 +35,4 @@ All modules were completed successfully.
 - These modules give a complete overview of Entra ID fundamentals and advanced features.
 
 ## ✔ Status
-Completed: 2025-12-07
+Completed: 07/12/2025
