@@ -1,5 +1,8 @@
 # Module — Understand Microsoft Entra ID
 
+<img width="593" height="349" alt="image" src="https://github.com/user-attachments/assets/373cce96-8d83-4745-8371-fb40a34e8999" />
+
+
 ## 🎯 What I learned
 - What Microsoft Entra ID is and how it is used as a cloud directory.
 - Differences between Entra ID and Active Directory Domain Services (AD DS).
