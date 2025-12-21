@@ -38,6 +38,12 @@ These policies complement existing Windows compliance requirements.
 
 ---
 
+<img width="873" height="894" alt="image" src="https://github.com/user-attachments/assets/cb3dcdc6-4187-425f-a327-dc3ab2e1d06d" />
+
+<img width="1670" height="473" alt="image" src="https://github.com/user-attachments/assets/5c049933-457e-480c-8047-2d147d73beff" />
+
+---
+
 ## Validation
 
 The extended compliance setup was validated by:
