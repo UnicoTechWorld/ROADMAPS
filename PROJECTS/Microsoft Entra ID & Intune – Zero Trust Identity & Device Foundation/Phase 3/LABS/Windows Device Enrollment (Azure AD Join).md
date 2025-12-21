@@ -34,6 +34,17 @@ The device was confirmed as both **Entra ID–joined** and **Intune-managed**.
 
 ---
 
+<img width="708" height="686" alt="image" src="https://github.com/user-attachments/assets/bd3e58f6-3abc-4afa-8c23-0ee5439a8135" />
+
+<img width="1022" height="680" alt="image" src="https://github.com/user-attachments/assets/f9c037fe-98bb-436a-80c5-1c4042dcb272" />
+
+<img width="1415" height="954" alt="image" src="https://github.com/user-attachments/assets/1b3bdedb-b9f9-451a-a439-4e333024d3fe" />
+
+<img width="1082" height="700" alt="image" src="https://github.com/user-attachments/assets/d6931b73-7c6a-4d7c-af26-793ae632a881" />
+
+<img width="1233" height="312" alt="image" src="https://github.com/user-attachments/assets/a32d26f5-153c-48b5-96f2-677337619997" />
+
+---
 ## Validation
 
 The enrollment was validated by:
