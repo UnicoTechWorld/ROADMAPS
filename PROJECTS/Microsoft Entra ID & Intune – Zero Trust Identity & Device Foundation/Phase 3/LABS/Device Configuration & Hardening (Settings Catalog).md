@@ -34,6 +34,12 @@ These settings complement compliance and Conditional Access controls.
 
 ---
 
+<img width="1641" height="1017" alt="image" src="https://github.com/user-attachments/assets/fe153ec6-96f9-40be-b9c7-c05803a8a546" />
+
+<img width="1292" height="1025" alt="image" src="https://github.com/user-attachments/assets/026f2376-762a-46d6-9e79-7fac39236936" />
+
+---
+
 ## Validation
 
 The configuration hardening was validated by:
