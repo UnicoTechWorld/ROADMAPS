@@ -34,6 +34,18 @@ No devices were enrolled yet; the focus was on **tenant-level readiness**.
 
 ---
 
+<img width="1898" height="701" alt="image" src="https://github.com/user-attachments/assets/94f2d38c-c9e4-486b-91d1-24da1177ee82" />
+
+<img width="1693" height="739" alt="image" src="https://github.com/user-attachments/assets/0e78d15c-f779-4b81-9d0a-cfbf9efc9724" />
+
+<img width="1676" height="553" alt="image" src="https://github.com/user-attachments/assets/f11713c4-e8cd-4d83-8394-1d01ef5366de" />
+
+<img width="1243" height="596" alt="image" src="https://github.com/user-attachments/assets/2e26d769-03e2-4226-82f4-9e3a621ae91f" />
+
+<img width="1010" height="91" alt="image" src="https://github.com/user-attachments/assets/16f1d910-13f0-4da7-abfe-7935e73649ae" />
+
+---
+
 ## Key Concepts Applied
 
 - Device management architecture
