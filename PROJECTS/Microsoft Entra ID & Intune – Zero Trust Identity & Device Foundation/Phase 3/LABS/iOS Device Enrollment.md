@@ -35,6 +35,18 @@ The device was successfully registered as **Intune-managed**.
 
 ---
 
+<img width="1068" height="607" alt="image" src="https://github.com/user-attachments/assets/a044ff92-3ee0-43a6-9164-ac8471149fa5" />
+
+<img width="1889" height="1008" alt="image" src="https://github.com/user-attachments/assets/bae5658f-d66d-4196-865c-152723730b4b" />
+
+<img width="1905" height="495" alt="image" src="https://github.com/user-attachments/assets/446646f9-0387-471e-8da5-7ddf4df43811" />
+
+<img width="234" height="506" alt="image" src="https://github.com/user-attachments/assets/8addd7bc-1230-4fe0-ace8-523b52d5d027" />
+
+<img width="234" height="506" alt="image" src="https://github.com/user-attachments/assets/0182f8b2-e2ad-4c57-bba9-2c7d1e9f20e0" />
+
+---
+
 ## Validation
 
 The enrollment process was validated by:
