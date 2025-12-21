@@ -30,6 +30,7 @@ During this lab, the following configuration was applied:
 - Validation that test users automatically receive licenses when added to the group
 - Verification of license status and conflict handling
 
+(Screens)
 ---
 
 ## Key Concepts Applied
