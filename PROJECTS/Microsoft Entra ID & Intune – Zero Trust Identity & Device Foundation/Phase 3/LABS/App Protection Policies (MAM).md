@@ -37,6 +37,16 @@ These policies apply **without requiring full device enrollment**.
 
 ---
 
+<img width="1821" height="954" alt="image" src="https://github.com/user-attachments/assets/11363b35-9fd6-48a3-b048-1f4475e30b8a" />
+
+<img width="1225" height="938" alt="image" src="https://github.com/user-attachments/assets/dcb91083-23d3-4c2c-a35e-36d441bfcee6" />
+
+<img width="822" height="884" alt="image" src="https://github.com/user-attachments/assets/294c61f9-e134-42ef-babc-247048e629ad" />
+
+<img width="1433" height="933" alt="image" src="https://github.com/user-attachments/assets/b42f19bd-e041-4348-8797-4063ad892c43" />
+
+---
+
 ## Validation
 
 The App Protection setup was validated by:
