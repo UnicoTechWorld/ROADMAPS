@@ -37,6 +37,14 @@ The device was successfully enrolled as **BYOD with a managed work profile**.
 
 ---
 
+<img width="1899" height="783" alt="image" src="https://github.com/user-attachments/assets/aa7c7a18-b898-489b-9af8-6d857b1b879c" />
+
+<img width="270" height="551" alt="image" src="https://github.com/user-attachments/assets/ef1fc563-2072-4c6e-b418-e185ecf0802a" />
+
+<img width="1592" height="617" alt="image" src="https://github.com/user-attachments/assets/69273381-8279-4d01-b109-752afab0584e" />
+
+---
+
 ## Validation
 
 The configuration was validated by:
