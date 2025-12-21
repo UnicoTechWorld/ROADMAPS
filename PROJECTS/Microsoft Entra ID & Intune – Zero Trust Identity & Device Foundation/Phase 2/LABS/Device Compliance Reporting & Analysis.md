@@ -34,6 +34,14 @@ No new policies were created in this lab; the focus was on **analysis and unders
 
 ---
 
+<img width="1685" height="837" alt="image" src="https://github.com/user-attachments/assets/73ea2a4d-9f93-4902-97fa-f27ec7b65b0d" />
+
+<img width="1685" height="837" alt="image" src="https://github.com/user-attachments/assets/34cd2f69-c21c-4ee9-978b-45fc6f83cf98" />
+
+<img width="1672" height="1027" alt="image" src="https://github.com/user-attachments/assets/76a8c6d7-df06-406d-807c-0c4cdc9ccfbb" />
+
+---
+
 ## Validation
 
 The reporting and analysis were validated by:
