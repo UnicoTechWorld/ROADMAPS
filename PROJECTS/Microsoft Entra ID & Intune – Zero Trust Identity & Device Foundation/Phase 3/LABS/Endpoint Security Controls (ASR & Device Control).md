@@ -40,6 +40,15 @@ These controls were applied to managed Windows devices.
 
 ---
 
+
+<img width="484" height="360" alt="image" src="https://github.com/user-attachments/assets/91acc775-addb-4d0a-aaa2-4576719d069f" />
+
+<img width="1691" height="798" alt="image" src="https://github.com/user-attachments/assets/82628f4a-75bf-4018-9af6-509d168a1b88" />
+
+<img width="855" height="987" alt="image" src="https://github.com/user-attachments/assets/2e9553bd-1e6f-48d7-9484-2aeb67549344" />
+
+---
+
 ## Validation
 
 The endpoint security configuration was validated by:
