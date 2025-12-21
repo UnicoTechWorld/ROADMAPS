@@ -30,7 +30,16 @@ During this lab, the following configuration was applied:
 - Validation that test users automatically receive licenses when added to the group
 - Verification of license status and conflict handling
 
-(Screens)
+<img width="639" height="340" alt="image" src="https://github.com/user-attachments/assets/77d4f2f5-2199-4986-92b0-fdac1aff1d64" />
+
+<img width="636" height="267" alt="image" src="https://github.com/user-attachments/assets/e199e452-518b-499c-9679-be8ea0ef086f" />
+
+<img width="1894" height="712" alt="image" src="https://github.com/user-attachments/assets/8b19726a-2ddb-4393-b288-a46727a56524" />
+
+<img width="929" height="556" alt="image" src="https://github.com/user-attachments/assets/1b445f98-321e-45d4-9eec-3d828fbe7779" />
+
+<img width="1915" height="881" alt="image" src="https://github.com/user-attachments/assets/555dc6ac-8217-4713-ba5f-c6a9dc33b94f" />
+
 ---
 
 ## Key Concepts Applied
