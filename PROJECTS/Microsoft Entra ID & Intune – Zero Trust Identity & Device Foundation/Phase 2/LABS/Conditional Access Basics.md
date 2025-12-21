@@ -34,6 +34,14 @@ This approach ensures safe experimentation and learning.
 
 ---
 
+<img width="628" height="863" alt="image" src="https://github.com/user-attachments/assets/459a2948-d583-477c-b7cf-0863817d6f94" />
+
+<img width="400" height="111" alt="image" src="https://github.com/user-attachments/assets/e1a3ab14-c86c-44b2-b176-f9f83006682e" />
+
+<img width="1270" height="867" alt="image" src="https://github.com/user-attachments/assets/27647aa5-856b-4ede-9c20-656754e490b6" />
+
+---
+
 ## Validation
 
 The Conditional Access configuration was validated by:
