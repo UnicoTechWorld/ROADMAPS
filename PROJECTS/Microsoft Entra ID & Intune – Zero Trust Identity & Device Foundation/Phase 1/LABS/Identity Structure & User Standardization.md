@@ -61,6 +61,13 @@ Users were assigned to the correct groups based on their role and department.
 
 ---
 
+<img width="1641" height="687" alt="image" src="https://github.com/user-attachments/assets/4629359d-cab7-41f8-9e32-1be63b595b38" />
+
+<img width="1625" height="392" alt="image" src="https://github.com/user-attachments/assets/a7541a26-c3d3-4de5-879c-71537788fea1" />
+
+
+---
+
 ## Key Concepts Applied
 
 - Identity standardization

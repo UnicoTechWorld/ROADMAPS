@@ -33,6 +33,22 @@ A realistic onboarding scenario was simulated:
 
 ---
 
+<img width="670" height="878" alt="image" src="https://github.com/user-attachments/assets/41e3fd2d-845e-4356-8851-15b4814c9d08" />
+
+<img width="1638" height="506" alt="image" src="https://github.com/user-attachments/assets/8523958a-2072-4ee5-9899-938f01df2876" />
+
+<img width="1011" height="562" alt="image" src="https://github.com/user-attachments/assets/d147f356-4895-4c41-a6a8-695dfec4a01d" />
+
+<img width="1622" height="894" alt="image" src="https://github.com/user-attachments/assets/0bf3f395-0bc1-478a-9b05-becca4051867" />
+
+<img width="542" height="569" alt="image" src="https://github.com/user-attachments/assets/956b45c1-a4c0-42c1-9676-34fa10f8a185" />
+
+<img width="691" height="432" alt="image" src="https://github.com/user-attachments/assets/0d71e971-bfe2-4500-abfa-cbbafbbd6b58" />
+
+<img width="473" height="235" alt="image" src="https://github.com/user-attachments/assets/557bc179-21f4-4d3b-80b6-19d6ad53584a" />
+
+---
+
 ## Key Concepts Applied
 
 - Identity lifecycle management

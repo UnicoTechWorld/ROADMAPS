@@ -35,6 +35,13 @@ During this lab, the following preparations were made:
   - `LAB_Admin_Global`
 - Clear distinction between lab identities and future production identities
 
+
+<img width="1628" height="617" alt="image" src="https://github.com/user-attachments/assets/fc32b89a-b135-4427-8888-2ad47ed7bb5b" />
+
+<img width="1636" height="664" alt="image" src="https://github.com/user-attachments/assets/02fe91a8-88d8-4437-b7c1-6a205eed00f2" />
+
+<img width="1915" height="1016" alt="image" src="https://github.com/user-attachments/assets/a92ed377-18c6-426c-a2b8-ef32a7ec0b6b" />
+
 ---
 
 ## Key Concepts Applied

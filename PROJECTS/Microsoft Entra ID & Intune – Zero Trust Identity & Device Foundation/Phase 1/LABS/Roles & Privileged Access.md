@@ -34,6 +34,16 @@ During this lab, the following changes were made:
 
 ---
 
+<img width="1605" height="360" alt="image" src="https://github.com/user-attachments/assets/a535fec9-7682-4474-bdea-230234fa5e4d" />
+
+<img width="421" height="419" alt="image" src="https://github.com/user-attachments/assets/84d37223-f769-44df-9000-8f3d3300beee" />
+
+<img width="1641" height="500" alt="image" src="https://github.com/user-attachments/assets/d53a2032-0145-4766-9ea1-6cecd0b2cc7e" />
+
+<img width="1890" height="680" alt="image" src="https://github.com/user-attachments/assets/6cff1cb1-a320-4754-a06e-fa3ca3713741" />
+
+---
+
 ## Key Concepts Applied
 
 - Least-privilege access

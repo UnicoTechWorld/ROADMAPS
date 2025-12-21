@@ -31,6 +31,14 @@ During this lab, the following configuration was applied:
 
 ---
 
+<img width="904" height="782" alt="image" src="https://github.com/user-attachments/assets/216589ec-7b76-4538-87dc-dba79e551fa2" />
+
+<img width="2752" height="1800" alt="image" src="https://github.com/user-attachments/assets/a9f461a4-b32c-4d7f-8189-115336f0f872" />
+
+
+---
+
+
 ## Key Concepts Applied
 
 - External identity management
