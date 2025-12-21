@@ -35,6 +35,14 @@ The policy was assigned to test devices managed by Intune.
 
 ---
 
+<img width="1124" height="882" alt="image" src="https://github.com/user-attachments/assets/11fff02f-2746-4c07-9e5b-efc740517a1d" />
+
+<img width="965" height="455" alt="image" src="https://github.com/user-attachments/assets/61a43de1-22af-4893-aaed-44b47afd1d67" />
+
+<img width="1536" height="1152" alt="image" src="https://github.com/user-attachments/assets/090021f5-7b15-4993-b992-d8b33aa9eb01" />
+
+---
+
 ## Validation
 
 The compliance configuration was validated by:
