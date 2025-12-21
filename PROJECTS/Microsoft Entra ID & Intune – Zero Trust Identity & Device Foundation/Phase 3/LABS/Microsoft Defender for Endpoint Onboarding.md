@@ -32,6 +32,15 @@ This ensures that managed devices are **continuously monitored for threats**.
 
 ---
 
+<img width="1018" height="831" alt="image" src="https://github.com/user-attachments/assets/ece3b704-80a6-4cc6-a499-2f2895da59c9" />
+
+<img width="1884" height="1024" alt="image" src="https://github.com/user-attachments/assets/2d5ee55b-05b0-454b-ac21-484098d5c1c4" />
+
+<img width="1711" height="477" alt="image" src="https://github.com/user-attachments/assets/69f21413-17ae-4c31-ad93-87140292fa95" />
+
+<img width="1614" height="935" alt="image" src="https://github.com/user-attachments/assets/656bd911-47f6-4436-ac70-90f02a6c05d3" />
+
+---
 ## Validation
 
 The Defender onboarding was validated by:
