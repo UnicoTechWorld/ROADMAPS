@@ -36,6 +36,17 @@ The following settings were implemented using a custom configuration:
 
 ---
 
+<img width="1579" height="742" alt="image" src="https://github.com/user-attachments/assets/fd4aa0f6-875e-4967-83b8-86472bb24169" />
+
+<img width="1898" height="837" alt="image" src="https://github.com/user-attachments/assets/c1cbe318-9cf0-4f74-a0ec-85360306e869" />
+
+<img width="760" height="706" alt="image" src="https://github.com/user-attachments/assets/3dc90210-fbfe-4f38-bf3c-05254e5cc6c5" />
+
+<img width="734" height="341" alt="image" src="https://github.com/user-attachments/assets/cd1ca2a6-b051-40f2-8ba7-9a75b15aeacc" />
+
+
+---
+
 ## Validation
 
 The configuration was validated by:
